@@ -24,6 +24,6 @@ Java HotSpot(TM) 64-Bit Server VM 18.3 (build 10.0.2+13, mixed mode)
  public class HelloWorld{
 
    public static void main (String[] commandline) {
-     System.out.println("hello, world. Wow java is so fun.");
+     System.out.println("hello, world. Wow java is so fun" + " Git is also cool");
    }
  }
